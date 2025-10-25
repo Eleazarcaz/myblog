@@ -2,7 +2,6 @@
 title: Bienvenido
 published: 2025-10-23
 description: ''
-image: '/src/assets/images/profile.jpg'
 tags: [Blogging]
 category: 'Blog'
 draft: false 
